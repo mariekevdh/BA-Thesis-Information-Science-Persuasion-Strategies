@@ -1,5 +1,5 @@
 # This program filters out data from the 2020 Webis ChangeMyView Corpus.
-# It selects threads that have at least 50 first-level comments,
+# It selects at most 100 threads that have at least 50 first-level comments,
 # (and after filtering comments at least 35)
 # is created in 2016 or later and has received at least one delta.
 # For these threads it filters out comments that have 30-300 words
