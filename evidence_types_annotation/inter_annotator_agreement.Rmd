@@ -1,0 +1,44 @@
+---
+title: "Inter annotator agreement"
+output: 
+  html_document:
+    toc: true
+    code_folding: show
+    toc_float: 
+        collapsed: false
+        smooth_scroll: true
+    number_sections: true
+---
+```{r}
+library(irr)
+```
+
+# Original labels
+```{r, fig.width=5, fig.height=5}
+annotations <- read.csv("merged_labels\\merged.csv")
+
+kappam.fleiss(annotations, detail=TRUE)
+```
+
+
+# Without Continue label
+```{r, fig.width=5, fig.height=5}
+annotations <- read.csv("merged_labels\\merged_no_continue.csv")
+
+kappam.fleiss(annotations, detail=TRUE)
+```
+
+
+# No Continue and Common ground merged into Assumption
+```{r, fig.width=5, fig.height=5}
+annotations <- read.csv("merged_labels\\merged_no_cg.csv")
+
+kappam.fleiss(annotations, detail=TRUE)
+```
+
+# All of the above + None and Other merged
+```{r, fig.width=5, fig.height=5}
+annotations <- read.csv("merged_labels\\merged_no_other.csv")
+
+kappam.fleiss(annotations, detail=TRUE)
+```
