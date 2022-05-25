@@ -37,7 +37,6 @@ Privilege is probabilistic.,Assumption,t3_4tf91m,d5hl4ov,1369.0,12458.0
 Everyone likes to say, history is in the past.",Statistics/Study,t3_4tf91m,d5hjv7t,1377.0,12466.0
 We're here now and if blacks live in poverty now it's their fault.,Assumption,t3_4tf91m,d5hjv7t,1378.0,12467.0
 "As if starting from someone's else's property, to being handed 40 acres and a mule (and the having that taken back and getting lynched if you looked at someone the wrong way), eventually getting the right to vote, access to education and jobs after decades of protests, riots, lynchings, assassinations, and arrests didn't somehow effect the present situation.",Assumption,t3_4tf91m,d5hjv7t,1379.0,12468.0
-"And even though the people that supported ""separate but equal"" are still alive, nooooo any trace of racism in education, government and politics is surely nonexistent.",Double,t3_4tf91m,d5hjv7t,1380.0,12469.0
 "And even though the people that supported ""separate but equal"" are still alive, nooooo any trace of racism in education, government and politics is surely nonexistent.",Assumption,t3_4tf91m,d5hjv7t,1380.0,12469.0
 "If you really think the problem is wealth, then look at what blacks started with in this country (as part of a white man's wealth), and ask yourself how could that not impact what it's like to be black in today's society?",Other,t3_4tf91m,d5hjv7t,1381.0,12470.0
 "The thing is that money, family status, and connections are generally part of ""white privilege.""",Assumption,t3_4tf91m,d5h8pbi,1382.0,12471.0
@@ -75,9 +74,6 @@ Racism is everywhere,Assumption,t3_4tf91m,d5hs628,1413.0,12502.0
 &gt;  people only say white privilege because the middle class is mostly white.,Assumption,t3_4tf91m,d5h7njb,1414.0,12503.0
 Well there you go.,None,t3_4tf91m,d5h7njb,1415.0,12504.0
 Generational wealth is a significant part of white privilege.,Assumption,t3_4tf91m,d5h7njb,1416.0,12505.0
-"In addition to that, an upper middle class black person isn't just statistically too rare-  they are also (compared to a white counterpart) more likely to be:  
-
-- Stopped by the police.",Double,t3_4tf91m,d5h7njb,1417.0,12506.0
 "In addition to that, an upper middle class black person isn't just statistically too rare-  they are also (compared to a white counterpart) more likely to be:  ",Assumption,t3_4tf91m,d5h7njb,1417.0,12506.0
 - Stopped by the police.,None,t3_4tf91m,d5h7njb,1417.1,12506.1
 - Prosecuted more heavily for the same crime.,None,t3_4tf91m,d5h7njb,1418.0,12507.0
@@ -100,6 +96,7 @@ Achieving middle-income status does not appear to protect black children from fu
 "More than half (54 percent) of black children born to parents in the bottom quintile stay in the bottom, compared to 31 percent of white children.",Continue,t3_4tf91m,d5gsnsl,1431.0,12520.0
 http://www.brookings.edu/research/papers/2007/11/blackwhite-isaacs,Statistics/Study,t3_4tf91m,d5gsnsl,1432.0,12521.0
 My friend is a smart dude and a java developer but he still gets singled out and harassed by cops because he's black.,Anecdote,t3_4tf91m,d5h4mnf,1433.0,12522.0
+"Racist cops (not all cops are racists) will stop a black man especially in a nice area because ""he doesn't belong there and that's suspicious.""",Assumption,t3_4tf91m,d5h4mnf,1434.0,12523.0
 "I don't think WP is meant to suggest that you get huge economic benefits, just that your life is better.",Assumption,t3_4tf91m,d5gzgtv,1435.0,12524.0
 "You aren't pulled over by the police as often, you aren't different, you have toys and band aids that match your skin color, you aren't representative of or fielding questions on behalf of your race, etc.",Assumption,t3_4tf91m,d5gzgtv,1436.0,12525.0
 That said there are some huge financial benefits.,Assumption,t3_4tf91m,d5gzgtv,1437.0,12526.0
@@ -159,6 +156,7 @@ The question is how much time and energy would it take?,None,t3_4q9qng,d4s0zew,1
 "Again, if we become the masters of the molecular realm these are not as far off as we might suppose; imagine taking a snapshot of your body and simply returning it to a default state(minus changes to memory and learning) every month or two.",Assumption,t3_4q9qng,d4s0zew,1489.0,12686.0
 Well within the means of our envisioned nanobot society.,Continue,t3_4q9qng,d4s0zew,1490.0,12687.0
 "I believe that if we achieve these aims, the freedom from fear of death, disease, old age, and want will impel us to eliminate the last scourge of mankind; war.",Assumption,t3_4q9qng,d4s0zew,1491.0,12688.0
+What else of value would such a society have to strive for?,None,t3_4q9qng,d4s0zew,1492.0,12689.0
 "I doubt it would be easy, and I know it wouldn't be quick, but given these other achievements Utopia *must* come, right around the time the last person stopping it from happening gets offed.",Assumption,t3_4q9qng,d4s0zew,1493.0,12690.0
 Utopia are in the imagination and cannot happen for any realistic amount of time.,Assumption,t3_4q9qng,d4ryxf6,1494.0,12691.0
 "People change everyday, the world changes, we learn more and forget more and yearn for what we don't have, regardless of what we do have.",None,t3_4q9qng,d4ryxf6,1495.0,12692.0
@@ -166,6 +164,7 @@ Utopias are just a dream to inspire us to try to strive to be better than we rem
 &gt;A Utopian society cannot work without sacrificing people's freedoms and individuality.,Assumption,t3_4q9qng,d4rhmfl,1497.0,12694.0
 Your objection is illogical.,None,t3_4q9qng,d4rhmfl,1498.0,12695.0
 1.,None,t3_4q9qng,d4rhmfl,1499.0,12696.0
+"If it was utopian and real, it would work (by definition).",Definition,t3_4q9qng,d4rhmfl,1500.0,12697.0
 2.,None,t3_4q9qng,d4rhmfl,1501.0,12698.0
 "If it did work, it wouldn't sacrifice any good (otherwise it would not be utopian).",Assumption,t3_4q9qng,d4rhmfl,1502.0,12699.0
 "Of course it's possible, it just requires a concerted effort by a small enough group of people to *throw out* the people that stop it from being a utopia.",Assumption,t3_4q9qng,d4rbifo,1503.0,12700.0
@@ -232,10 +231,12 @@ Much of the poverty in the US is from the poverty cycle where poor people have c
 "If the people in the poverty cycle and all other countries disappeared, utopia would be more or less accomplished.",Assumption,t3_4q9qng,d4rhb1o,1560.0,12757.0
 "Small problems are always going to happen, but I don't think they need to be prevented to have utopia.",Assumption,t3_4q9qng,d4rhb1o,1561.0,12758.0
 Now how do you actually get to a place where the whole world looks like that?,Other,t3_4q9qng,d4rhb1o,1562.0,12759.0
+"I have no idea, but I mean the dumbest way that would literally work would be to kill everyone else.",Continue,t3_4q9qng,d4rhb1o,1563.0,12760.0
 Of course that isn't a good idea.,Assumption,t3_4q9qng,d4rhb1o,1564.0,12761.0
 I'm sure there is another way to accomplish a similar result.,Continue,t3_4q9qng,d4rhb1o,1565.0,12762.0
 "If the human race evolves to a point where we are all critically in tune with one another, and realize that any harm done to the whole is harm done to the self (very spiritual sort of society), and people are so in tune that they're willing to sacrifice themselves at any point for the greater good (in both a physical and non physical way), then we can have a utopia without restricting any freedoms.",Assumption,t3_4q9qng,d4rae2t,1566.0,12763.0
 "People will have the option to do bad, however they won't.",Assumption,t3_4q9qng,d4rae2t,1567.0,12764.0
+"I think we could get very close to it, in an ideal world.",Assumption,t3_4q9qng,d4r8lcm,1568.0,12765.0
 "If there were no fear of violence, for example, no liberal would have a fear of another person owning a gun.",Assumption,t3_4q9qng,d4r8lcm,1569.0,12766.0
 "Even now most people are realizing that what other people choose to do in the privacy of their own homes, so long as it doesn't harm others, is fine.",Assumption,t3_4q9qng,d4r8lcm,1570.0,12767.0
 "I think in a Utopia, would you have the freedom to streak through the park or to punch the President?",Other,t3_4q9qng,d4r8lcm,1571.0,12768.0
@@ -269,11 +270,13 @@ Diversity in thought and culture doesn't have to incite bigotry and intolerance.
 Let me make a sort of unusual counter argument.,Assumption,t3_4q9qng,d4r9va1,1599.0,12796.0
 "This actually is possible, at least conceptually.",Continue,t3_4q9qng,d4r9va1,1600.0,12797.0
 "All you have to do is build ""the Matrix"".",Assumption,t3_4q9qng,d4r9va1,1601.0,12798.0
+A virtual reality world exactly replicating the real world at the level of neurological interface.,Continue,t3_4q9qng,d4r9va1,1602.0,12799.0
 "In this world, it would be possible for every person to have total freedom, everything they need to live and everything they want to experience and explore and learn and collaborate and do.",Continue,t3_4q9qng,d4r9va1,1603.0,12800.0
 "Robots could harvest and recycle basic materials to feed the biological components of the human race in an automated, maximally-efficient fashion, and to allow for exploration and accurate virtual modeling/mapping of previously unexplored facets of the universe.",Continue,t3_4q9qng,d4r9va1,1604.0,12801.0
 "No war, no violence, total utopia.",Continue,t3_4q9qng,d4r9va1,1605.0,12802.0
 Some may say that a utopia would never work because of human nature being inherently douchey.,Assumption,t3_4q9qng,d4rh1yz,1606.0,12803.0
 "I'll set that aside though, because that's not what you're saying.",Continue,t3_4q9qng,d4rh1yz,1607.0,12804.0
+You're saying a utopia would only work if people sacrifice freedoms and individuality.,None,t3_4q9qng,d4rh1yz,1608.0,12805.0
 "If the people were good people, it could work.",Assumption,t3_4q9qng,d4rh1yz,1609.0,12806.0
 Here's how.,Assumption,t3_4q9qng,d4rh1yz,1610.0,12807.0
 This is something I feel intensely passionate about.,None,t3_4otmqi,d4geetj,1611.0,12939.0
@@ -337,6 +340,7 @@ They see other pups being slaughtered.,Continue,t3_4otmqi,d4ffjj3,1664.0,12992.0
 "Because of the sheer number, many are put to be boiled alive.",Continue,t3_4otmqi,d4ffjj3,1665.0,12993.0
 Many are beaten to death to cause release of adrenalin because supposedly that tastes better.,Continue,t3_4otmqi,d4ffjj3,1666.0,12994.0
 It is an extremely cruel and torturous day for these animals.,Continue,t3_4otmqi,d4ffjj3,1667.0,12995.0
+"Those against Yulin are not against the eating of dogs in particular, but the treatment and torture of these dogs.",Assumption,t3_4otmqi,d4ffjj3,1668.0,12996.0
 Not to mention the sanitary health conditions involved on this day.,Continue,t3_4otmqi,d4ffjj3,1669.0,12997.0
 Because of this holiday many loving pet owners have to worry about their dog being stolen and butchered.,Assumption,t3_4otmqi,d4ffjj3,1670.0,12998.0
 "http://time.com/2891222/yullin-festival-dog-meat-china/
@@ -358,6 +362,7 @@ It's a cultural bias plain and simple.,Assumption,t3_4otmqi,d4fnf0r,1683.0,13011
 "](https://www.google.ca/search?espv=2&amp;q=dog+theft+in+china&amp;oq=chinese+dog+festival+dognapping&amp;gs_l=serp.1.0.0i71l5.0.0.0.6584.0.0.0.0.0.0.0.0..0.0....0...1c..64.serp..0.0.0.f_7GoizppBQ)
 
 In fact, there's no evidence of any farms where dogs are bred.",Continue,t3_4otmqi,d4fkzd7,1686.0,13014.0
+"Because dogs are rare delicacies, that [**suggests that most dogs eaten in China were stolen from the street or from their owners.",Anecdote,t3_4otmqi,d4fkzd7,1687.0,13015.0
 "**](http://www.bbc.com/news/magazine-33283694) That's bad from a public health standpoint as well as a property-rights one, because these street mongrels may be infested with garbage-worms and poisoned with industrial pollutants.",Continue,t3_4otmqi,d4fkzd7,1688.0,13016.0
 "I think you've trivialized the ""pet"" aspect a bit.",None,t3_4otmqi,d4gj4w5,1689.0,13017.0
 "Dogs have evolved alongside humans for millions of years as companions, whereas many of the animals that we traditionally eat in the west evolved as food animals.",Assumption,t3_4otmqi,d4gj4w5,1690.0,13018.0
@@ -375,16 +380,10 @@ Pigs are intelligent animals yet are seen as acceptable to eat in the West.,Anec
 Whereas in countries such as China some people draw the line even further up the scale of intelligence.,Anecdote,t3_4otmqi,d4ff9pd,1702.0,13030.0
 "&gt; If you're against it, you might aswell become vegan and don't eat all the other animals either.",None,t3_4otmqi,d4fgj2r,1703.0,13031.0
 "Once I started thinking about this, it was a big part of my motivation to go vegan.",Anecdote,t3_4otmqi,d4fgj2r,1704.0,13032.0
-"&gt; There's an argument that we have them as pets, but imo that doesn't justify it  
-
-It's a huge difference though.",Double,t3_4otmqi,d4fyj2h,1705.0,13033.0
 "&gt; There's an argument that we have them as pets, but imo that doesn't justify it  ",None,t3_4otmqi,d4fyj2h,1705.0,13033.0
 It's a huge difference though.,None,t3_4otmqi,d4fyj2h,1705.1,13033.1
 "Some people have spiders or mice as pets, but I am not sure you'd hesitate to wipe them out of your house, pantry or bedroom, right?",None,t3_4otmqi,d4fyj2h,1706.0,13034.0
 The relationship we form with a species is very important when determining what is moral or not.,Assumption,t3_4otmqi,d4fyj2h,1707.0,13035.0
-"&gt;  If you're against it, you might aswell become vegan  
-
-Vegan is different than a vegetarian or humanitarian.",Double,t3_4otmqi,d4fyj2h,1708.0,13036.0
 "&gt;  If you're against it, you might aswell become vegan  ",None,t3_4otmqi,d4fyj2h,1708.0,13036.0
 Vegan is different than a vegetarian or humanitarian.,Assumption,t3_4otmqi,d4fyj2h,1708.1,13036.1
 "A vegan is a dogmatic approach that proposes that humans should not make any use of any animal product, not even eggs, honey nor silk.",Definition,t3_4otmqi,d4fyj2h,1709.0,13037.0
@@ -395,9 +394,8 @@ Please don't confuse the two.,None,t3_4otmqi,d4fyj2h,1711.0,13039.0
 This is a step in the right direction.,None,t3_4otmqi,d4fyj2h,1714.0,13042.0
 "Otherwise your position is ""extremism or hypocrisy"" which is becoming popular on social media where you have to make rocket launchers legal in order to get guns, or ban baseball bats in order to control guns...ridiculous argument.",None,t3_4otmqi,d4fyj2h,1715.0,13043.0
 " I really appreciate the question and following conversation.This documentary is about our systems of feeding ourselves on a global scale,to say the least.",Assumption,t3_4otmqi,d4fxlof,1716.0,13044.0
-"
- I really appreciate the question and following conversation.This documentary is about our systems of feeding ourselves on a global scale,to say the least.",Double,t3_4otmqi,d4fxlof,1716.0,13044.0
 Narrated by Joaquin Phoenix.,Testimony,t3_4otmqi,d4fxlof,1717.0,13045.0
+No matter your view there is information that most people could use to make their decisions.,Assumption,t3_4otmqi,d4fxlof,1718.0,13046.0
 https://www.youtube.com/watch?v=GVE6eZCJZv8,Anecdote,t3_4otmqi,d4fxlof,1719.0,13047.0
 "Dogs are of similar puzzle-solving intelligence to many farm animals, and probably lower than pigs there, but are of higher social/emotional intelligence.",Assumption,t3_4otmqi,d4fgumh,1720.0,13048.0
 "There are plenty of animals that we are discovering are quite high on the raw intelligence scale (crows, parrots, etc), but it is really the level of social intelligence that governs how much we empathize with these animals.",Assumption,t3_4otmqi,d4fgumh,1721.0,13049.0
@@ -449,6 +447,7 @@ I outsource my opinions on a lot of scientific topics to the scientific communit
 "In reality, there is often great unity among experts that current policies are bad, but ignorant voters keep stupid policies in place.",Assumption,t3_57tl4k,d8vv3w0,1765.0,13221.0
 "A version of your thought here would be to accept the consensus among experts as your own opinion, and vote and argue for it.",Assumption,t3_57tl4k,d8vv3w0,1766.0,13222.0
 "This is not exactly forming your own opinion, but neither is it ignoring the issues because they're impossible to figure out.",Continue,t3_57tl4k,d8vv3w0,1767.0,13223.0
+"Assuming that this applies to voting, there are some issues that experts have almost complete agreement on.",Assumption,t3_57tl4k,d8vm7aa,1768.0,13224.0
 "For example, it would be difficult to find an economist who didn't argue that the benefits of free trade outweigh the negatives",Anecdote,t3_57tl4k,d8vm7aa,1769.0,13225.0
 "Government is not, and should not be, a technocracy.",None,t3_57tl4k,d8uunj0,1770.0,13226.0
 "It would all be much easier if it were, and it's an attractive idea, but it ain't.",Assumption,t3_57tl4k,d8uunj0,1771.0,13227.0
@@ -471,6 +470,7 @@ These are the people that do research as their job.,Continue,t3_57tl4k,d8vpsjv,1
 "If I were to get in an argument about minimum wage, why would my argument be that valid at all?",None,t3_57tl4k,d8vpsjv,1788.0,13244.0
 "Most likely, everything I'd say would probably be a bit wrong and could be explained 100x more clearly by an expert.",Assumption,t3_57tl4k,d8vpsjv,1789.0,13245.0
 "It's like if I read an article about some type of cancer treatment and tried to explain it to someone are argue for it, but in reality an oncologist would point out how I'm wrong and there's more to it than what I read.",Assumption,t3_57tl4k,d8vpsjv,1790.0,13246.0
+"It all comes back to the principle that the more you know, the less you really know.",None,t3_57tl4k,d8vpsjv,1791.0,13247.0
 I guess ultimately I'm agreeing with you.,None,t3_57tl4k,d8vpsjv,1792.0,13248.0
 It's a misconception about economics that economists can't agree on everything.,Assumption,t3_57tl4k,d8velpl,1793.0,13249.0
 In fact on most issues economists actually agree.,Continue,t3_57tl4k,d8velpl,1794.0,13250.0
@@ -479,10 +479,12 @@ In fact on most issues economists actually agree.,Continue,t3_57tl4k,d8velpl,179
 &gt;if you had a debate between 3 republicans and 3 democrats, whom one of each was an economist, the first five minutes of the debate would be between the republicans and the democrats the rest of the debate would be between the economists and the non-economists.",Testimony,t3_57tl4k,d8velpl,1795.0,13251.0
 You can make a more informed vote with a little information than you can with zero.,Assumption,t3_57tl4k,d8y0bza,1796.0,13252.0
 "But, more importantly, thank you for being one of the few people who is willing to admit they don't know everything.",None,t3_57tl4k,d8y0bza,1797.0,13253.0
+Thank you for being the anti-Trump.,None,t3_57tl4k,d8y0bza,1798.0,13254.0
 "Actually, economists agree on a lot of things.",Assumption,t3_57tl4k,d8v0oim,1799.0,13255.0
 "What's more, some things they disagree on are not for economic reasons per say, but because two solutions might be differentiated by ethics rather than economics.",Assumption,t3_57tl4k,d8v0oim,1800.0,13256.0
 http://gregmankiw.blogspot.com/2009/02/news-flash-economists-agree.html,Statistics/Study,t3_57tl4k,d8v0oim,1801.0,13257.0
 This same line of thought holds true for many things  - just as an example : financial behavior.,None,t3_57tl4k,d8vx4ls,1802.0,13258.0
+There are several experts and points of view who are unable to agree on many things.,Assumption,t3_57tl4k,d8vx4ls,1803.0,13259.0
 "However, if you have money to invest, would you not rather put in the effort to understand some of these povs rather than just shove it under the carpet?",None,t3_57tl4k,d8vx4ls,1804.0,13260.0
 "Same analogy applies if you think of democracy, international influence and economy as precious resources like money.",Assumption,t3_57tl4k,d8vx4ls,1805.0,13261.0
 You would rather have a point of view than none.,Continue,t3_57tl4k,d8vx4ls,1806.0,13262.0
@@ -532,6 +534,7 @@ The practice of weighing and evaluating issues that are affected by a dynamic sy
 In other words; it's good mental exercise.,Continue,t3_57tl4k,d8wx7d1,1849.0,13305.0
 "Regardless of whether or not you ever make any difference in the world regarding those issues, you will make yourself mentally more healthy and socially more interesting.",Assumption,t3_57tl4k,d8wx7d1,1850.0,13306.0
 And that's certainly not pointless.,Continue,t3_57tl4k,d8wx7d1,1851.0,13307.0
+Here's my two cents.,None,t3_57tl4k,d8v3gol,1852.0,13308.0
 "I think you'd be surprised at how much these issues rely on personal preference and values, and as a citizen, you bear some responsibility in making sure that your voice is heard, and that the actions of your government represent *your* interests, not the ""scientifically correct"" action.",None,t3_57tl4k,d8v3gol,1853.0,13309.0
 Foreign policy is a great example.,None,t3_57tl4k,d8v3gol,1854.0,13310.0
 Consider the recent nuclear treaty with Iran.,Anecdote,t3_57tl4k,d8v3gol,1855.0,13311.0
@@ -545,19 +548,6 @@ Finding out what the experts agree on and then voting for those policies and con
 **EDIT** The most recent survey is on import duties.,None,t3_57tl4k,d8uv8fk,1863.0,13319.0
 You'll see everyone basically agrees.,None,t3_57tl4k,d8uv8fk,1864.0,13320.0
 There's far more consensus than you realize.,None,t3_57tl4k,d8vn3f9,1865.0,13321.0
-"Take economics, economists almost universally support:
-
-carbon taxation
-
-Lower corporate taxes
-
-An expansion of healthcare subsidies
-
-Occupational licensing reform
-
-Free trade
-
- the list goes on.",Double,t3_57tl4k,d8vn3f9,1866.0,13322.0
 "Take economics, economists almost universally support:",None,t3_57tl4k,d8vn3f9,1866.0,13322.0
 carbon taxation,None,t3_57tl4k,d8vn3f9,1866.1,13322.1
 Lower corporate taxes,None,t3_57tl4k,d8vn3f9,1866.2,13322.2
@@ -569,6 +559,7 @@ the list goes on.,None,t3_57tl4k,d8vn3f9,1866.6,13322.6
 If we all only formed opinions where all of the experts agreed 100% we would have very little to talk about at all.,Assumption,t3_57tl4k,d8vii29,1868.0,13324.0
 "Usually forming an opinion on a topic requires a little interest and research, and is useful for enjoyable and intelligent conversations with other human beings.",Assumption,t3_57tl4k,d8vii29,1869.0,13325.0
 "It's still a good idea to follow foreign policy discussions so you can get an idea of what points most experts agree on, and recognize when a politician is proposing something completely out of left field.",Assumption,t3_57tl4k,d8vzkfa,1870.0,13326.0
+This argument is strange.,None,t3_57ahdb,d8qplw1,1871.0,13435.0
 "It's a really weird semantic""gotcha"" type approach.",None,t3_57ahdb,d8qplw1,1872.0,13436.0
 You've essentially told someone they wouldn't have car trouble if they didn't have a car.,None,t3_57ahdb,d8qplw1,1873.0,13437.0
 "Well, yeah.",None,t3_57ahdb,d8qplw1,1874.0,13438.0
@@ -580,15 +571,9 @@ If you wanted to do something about your leaky roof would suicide be an option y
 I mean your worry about the roof goes away right?,None,t3_57ahdb,d8qplw1,1880.0,13444.0
 See how silly that is?,None,t3_57ahdb,d8qplw1,1881.0,13445.0
 "The only goal of Utopia were to ""reduce"" suffering, then you would have a point.",Assumption,t3_57ahdb,d8qr2yg,1882.0,13446.0
-"You say to this objection: 
-
-&gt;the positive qualities exist for the end of preventing suffering.",Double,t3_57ahdb,d8qr2yg,1883.0,13447.0
 You say to this objection:,None,t3_57ahdb,d8qr2yg,1883.0,13447.0
 &gt;the positive qualities exist for the end of preventing suffering.,Assumption,t3_57ahdb,d8qr2yg,1883.1,13447.1
 "When I listen to music, or look at a fantastic sunset, or play hide and seek with a laughing child, it is not ""to reduce suffering""",Anecdote,t3_57ahdb,d8qr2yg,1884.0,13448.0
-"&gt; the positive qualities exist for the end of preventing suffering
-
-I object to this part.",Double,t3_57ahdb,d8qdyi0,1885.0,13449.0
 &gt; the positive qualities exist for the end of preventing suffering,Assumption,t3_57ahdb,d8qdyi0,1885.0,13449.0
 I object to this part.,None,t3_57ahdb,d8qdyi0,1885.1,13449.1
 There is more to happiness/satisfaction/contentness/whatever than just not suffering.,None,t3_57ahdb,d8qdyi0,1886.0,13450.0
@@ -598,9 +583,6 @@ A world where a few people suffer and many are super-happy is better than a worl
 "Most people don't kill themselves, so we can be confident that most people think their lives have more happiness than suffering.",Assumption,t3_57ahdb,d8qdyi0,1890.0,13454.0
 "Extinguishing them will reduce more happiness than it would reduce suffering, driving both total and average value *down*.",Continue,t3_57ahdb,d8qdyi0,1891.0,13455.0
 EDIT: One objection you have that is related to that is,None,t3_57ahdb,d8qdyi0,1892.0,13456.0
-"EDIT: One objection you have that is related to that is
-
-&gt; So-called higher pleasures - art, music, intellectual pursuits - are all subservient to these needs, as they either function to A: distract us from unmet needs in ourselves or others or B: exist to facilitate the goal of meeting these needs.",Double,t3_57ahdb,d8qdyi0,1892.0,13456.0
 "&gt; So-called higher pleasures - art, music, intellectual pursuits - are all subservient to these needs, as they either function to A: distract us from unmet needs in ourselves or others or B: exist to facilitate the goal of meeting these needs.",Assumption,t3_57ahdb,d8qdyi0,1892.1,13456.1
 "If this were true then there is no super-happy people, only people who are as happy as dead people (i.e.",Assumption,t3_57ahdb,d8qdyi0,1893.0,13457.0
 not suffering).,Continue,t3_57ahdb,d8qdyi0,1894.0,13458.0
@@ -615,6 +597,7 @@ It's an augur that makes us deep.,Continue,t3_57ahdb,d8qjpts,1900.0,13464.0
 Peace and equanimity are spiritual goals and suffering is one of the important tools that bring us closer to them.,Assumption,t3_57ahdb,d8qjpts,1903.0,13467.0
 "When the jewel is polished, the grinder is no longer needed.",None,t3_57ahdb,d8qjpts,1904.0,13468.0
 There are other ways to polish a jewel - it could be put into an idealized tumbler (societal utopia).,Assumption,t3_57ahdb,d8qjpts,1905.0,13469.0
+Your CMV is a comparison of mechanisms for lapidary.,None,t3_57ahdb,d8qjpts,1906.0,13470.0
 Throwing away the jewel is not a valid way to polish it.,Assumption,t3_57ahdb,d8qjpts,1907.0,13471.0
 Would you deny that some suffering is good?,None,t3_57ahdb,d8qobdz,1908.0,13472.0
 It is factually correct that you would eliminate human suffering once the entire species was extinct.,Assumption,t3_57ahdb,d8qobdz,1909.0,13473.0
@@ -630,6 +613,7 @@ How does one get through a long and happy life with minimal suffering?,None,t3_5
 "I would make a counterpoint; if not a logic one, then differing ethical philosophy.",None,t3_57ahdb,d8rc76c,1919.0,13483.0
 "Death would end suffering, but it also ends positive emotions like joy.",Assumption,t3_57ahdb,d8rc76c,1920.0,13484.0
 "I would argue the a true utopia requires more than just the absence of suffering, it requires positive emotions to well outweigh the negative.",Assumption,t3_57ahdb,d8rc76c,1921.0,13485.0
+"Note many people would happily undergo suffering for the sake of also gaining joy/happiness, this suggests suffering is not the only concern for good and bad.",Assumption,t3_57ahdb,d8rc76c,1922.0,13486.0
 Like everyone else in this thread I can only dispute that ending human suffering is the ultimate goal.,None,t3_57ahdb,d8r92ip,1923.0,13487.0
 Hedonistic Utilitarians argue that the only meaningful end is happiness.,Testimony,t3_57ahdb,d8r92ip,1924.0,13488.0
 Therefore the best action is one that maximizes happiness.,Continue,t3_57ahdb,d8r92ip,1925.0,13489.0
@@ -642,9 +626,6 @@ So where is your basis that ending suffering is the primary goal of humanity?,No
 &gt;All human suffering originates in unmet needs.,Assumption,t3_57ahdb,d8r309x,1932.0,13496.0
 "We hunger so we eat, if we cannot eat when hungry, we suffer.",Assumption,t3_57ahdb,d8r309x,1933.0,13497.0
 You sound like the Buddha.,None,t3_57ahdb,d8r309x,1934.0,13498.0
-"&gt;unconscious beings do not have suffering
-
-True, but there is also no experience and thus no utopia.",Double,t3_57ahdb,d8r309x,1935.0,13499.0
 &gt;unconscious beings do not have suffering,Assumption,t3_57ahdb,d8r309x,1935.0,13499.0
 "True, but there is also no experience and thus no utopia.",Assumption,t3_57ahdb,d8r309x,1935.1,13499.1
 Death cannot be compared to life because in death there is no experience.,Assumption,t3_57ahdb,d8r309x,1936.0,13500.0
@@ -655,9 +636,6 @@ Its the whole apples and oranges issue.,None,t3_57ahdb,d8r309x,1939.0,13503.0
 "OP, are you a weaboo?",None,t3_57ahdb,d8qbz5b,1941.0,13505.0
 Did somebody just finish watching Evangelion?,None,t3_57ahdb,d8qbz5b,1942.0,13506.0
 "And yes, let's do keep it short :)",None,t3_57ahdb,d8qbz5b,1943.0,13507.0
-"And yes, let's do keep it short :)
-
-So, the whole point of the show is that yes, everyone chanting ""come sweet death"" will in fact end all human suffering.",Double,t3_57ahdb,d8qbz5b,1943.0,13507.0
 "So, the whole point of the show is that yes, everyone chanting ""come sweet death"" will in fact end all human suffering.",Assumption,t3_57ahdb,d8qbz5b,1943.1,13507.1
 "Yes, we are all fickle, weak little things living in a cruel world and even for the luckiest among us, life is still about 90% suffering.",Assumption,t3_57ahdb,d8qbz5b,1944.0,13508.0
 "Imperfections within our individual selves cause suffering, misunderstandings amongst each other cause suffering, and of course all basic physical needs that aren't sated also cause suffering.",Assumption,t3_57ahdb,d8qbz5b,1945.0,13509.0
@@ -694,6 +672,7 @@ Everything you say falls apart If you can convince the value of suffering in one
 "We don't have movies of people enjoying quiet contentment void of suffering and if we do, no one is watching those.",Continue,t3_57ahdb,d8qsnvt,1976.0,13540.0
 No one's goal is to sit in quiet bliss popping somas every day as a collective  society.,Assumption,t3_57ahdb,d8qsnvt,1977.0,13541.0
 Your argument is internally sound but only when you use an assumption about society's goals that are not in line with reality.,None,t3_57ahdb,d8qsnvt,1978.0,13542.0
+You know why this is true?,Other,t3_57ahdb,d8qsnvt,1979.0,13543.0
 "Because even if your argument seems true on paper, it's still a completely useless string of thinking.",Continue,t3_57ahdb,d8qsnvt,1980.0,13544.0
 "No one is going to take this, agree, and try to end humanity.",Assumption,t3_57ahdb,d8qsnvt,1981.0,13545.0
 Why?,Other,t3_57ahdb,d8qsnvt,1982.0,13546.0
@@ -705,9 +684,6 @@ It's thick but it reframed my views greatly about the concept of suffering.,Anec
 
 Extinction does not reduce human suffering at least as well as achieving an utopia would, it removes the humans who suffer.",Assumption,t3_57ahdb,d8qbskt,1987.0,13551.0
 "Satisfying needs quantifies an overall feeling of accomplishment (some basic needs like food which are necessary, some needs like internet which are not necessary to survive).",Assumption,t3_57ahdb,d8qbskt,1988.0,13552.0
-"------------------------------- 
-
-Satisfying needs quantifies an overall feeling of accomplishment (some basic needs like food which are necessary, some needs like internet which are not necessary to survive).",Double,t3_57ahdb,d8qbskt,1988.0,13552.0
 "By ""quantifies"" I mean that, by your definitions, happiness is proportional to satisfied needs.",Definition,t3_57ahdb,d8qbskt,1989.0,13553.0
 "For extinction to reduce suffering, it means that this quantified feeling is somehow improved, compared to now.",Assumption,t3_57ahdb,d8qbskt,1990.0,13554.0
 "For extinction to reduce suffering at least as well as a utopia, means that I can compare this overall feeling of accomplishment in satisfying my needs.",Assumption,t3_57ahdb,d8qbskt,1991.0,13555.0
@@ -721,10 +697,8 @@ We could try to aim for both.,None,t3_57ahdb,d8rna5h,1997.0,13561.0
 "No, it's not the same as achieving an utopia.",None,t3_57ahdb,d8qmkl7,1999.0,13563.0
 "Extinction would reduce suffering to 0, yes, but it would also reduce happiness to 0, while an utopia would only reduce suffering, while still mantaining, or even raising, happiness.",Assumption,t3_57ahdb,d8qmkl7,2000.0,13564.0
 how about: nobody should be allowed to earn exponentiall more than anyone else?,None,t3_4sntrj,d5aw6ki,2001.0,13721.0
+"so you invent something, and you had to spand a million to do so, then of course you are allowed to receive that million back, plus all the time you invested, but then, dont you be greedy, you kniw, all life has the same value.",Assumption,t3_4sntrj,d5aw6ki,2002.0,13722.0
 take into consideration how hard the developer had t suffer (marie curie) and we will come up with an equation that gives everyone what they asked for and cant be corrupted by capitalism to make the rich richer and the poor poorer.,Continue,t3_4sntrj,d5aw6ki,2003.0,13723.0
-"science says its possible, society says its necessary the banksters pay the media to say its impossible....
-
-fight for your right to be human",Double,t3_4sntrj,d5aw6ki,2004.0,13724.0
 "science says its possible, society says its necessary the banksters pay the media to say its impossible....",Assumption,t3_4sntrj,d5aw6ki,2004.0,13724.0
 fight for your right to be human,None,t3_4sntrj,d5aw6ki,2004.1,13724.1
 Are you a creative OP?,None,t3_4sntrj,d5as1dk,2005.0,13725.0
@@ -739,12 +713,10 @@ Since streaming began we've received essentially nothing in terms of revenue fro
 Especially likely to bite musicians as music tends to be popular in roughly 15/20 year cycles.,Assumption,t3_4sntrj,d5as1dk,2014.0,13734.0
 The 90s are cool right now for example.,None,t3_4sntrj,d5as1dk,2015.0,13735.0
 I think copyright should be 10 years + a fee to extend it every 5 years (increasing in cost) or an additional 10 years for successive works,Assumption,t3_4sntrj,d5ass8n,2016.0,13736.0
-"I think copyright should be 10 years + a fee to extend it every 5 years (increasing in cost) or an additional 10 years for successive works
-
-that way every creator gets 10 years to profit from their creation, and say for a comic book like batman, every new work extends the copy right.",Double,t3_4sntrj,d5ass8n,2016.0,13736.0
 "that way every creator gets 10 years to profit from their creation, and say for a comic book like batman, every new work extends the copy right.",Assumption,t3_4sntrj,d5ass8n,2016.1,13736.1
 And if they feel they're making money or want to work with it in the future they get an additional 5 years.,Assumption,t3_4sntrj,d5ass8n,2017.0,13737.0
 this will encourage people to keep creating if they wish to hold onto it or pay fees if they feel it profitable to hold onto it.,Continue,t3_4sntrj,d5ass8n,2018.0,13738.0
+will admit this idea is a holey as swiss cheese.,None,t3_4sntrj,d5ass8n,2019.0,13739.0
 "A Game of Thrones was published 20 years ago, so now anyone could create new books, movies, whatever with the characters from that book.",Anecdote,t3_4sntrj,d5bjh9o,2020.0,13740.0
 Some copyrighted properties have been in continuous publication for 50+ years.,Assumption,t3_4sntrj,d5bjh9o,2021.0,13741.0
 "And shortening copyright protection would allow anyone to create derivative works instead of coming up with their own ideas, which I think is the opposite of your desired outcome.",Assumption,t3_4sntrj,d5bjh9o,2022.0,13742.0
@@ -766,7 +738,9 @@ Applying this for derivative works means that you don't have authors being screw
 "Patents have a system of maintenance fees, I don't think that a set time is the best option, however, I do think that with a maintenance fee things could change, for example everyone gets 15 years for free, and then if your work is very popular then it would be possible to pay a maintenance fee to keep it copyrighted, if it has lost it's money making potential then you won't keep it copyrighted and it will enter the public domain.",Assumption,t3_4sntrj,d5b0uxg,2036.0,13756.0
 &gt;Copyright protection is an agreement between society and a creator.,Assumption,t3_4sntrj,d5b9s9y,2037.0,13757.0
 "The premise is this: If you create something, it becomes part of the culture in which you live.",Assumption,t3_4sntrj,d5b9s9y,2038.0,13758.0
+"People will share it with each other, add to it, expand upon it, and it will grow along with the culture.",Continue,t3_4sntrj,d5b9s9y,2039.0,13759.0
 "However, in order to encourage creators to share their creations with the society in which they live, the society agrees to ban copying of the creation by anyone not permitted by the creator for a set duration.",Assumption,t3_4sntrj,d5b9s9y,2040.0,13760.0
+I do not recall agreeing to this.,None,t3_4sntrj,d5b9s9y,2041.0,13761.0
 "I think it seems kind of silly for people to be able to ""own"" an idea.",None,t3_4sntrj,d5b9s9y,2042.0,13762.0
 People who create copyrighted works are not that different to people who create anything else.,Assumption,t3_4sntrj,d5bafdj,2043.0,13763.0
 "If someone builds a house, their return on it is to either live in it, or sell it for the value someone else would get out of living in it.",Assumption,t3_4sntrj,d5bafdj,2044.0,13764.0
@@ -786,6 +760,7 @@ Maybe after the creators death the copyright should become public domain.,Assump
 The extreme length of copyright protection has reversed the desired effect.,Assumption,t3_4sntrj,d5aqp10,2058.0,13778.0
 "Rather than encouraging more creations, it has rewarded creators who stop creating for the remainder of their lives.",Continue,t3_4sntrj,d5aqp10,2059.0,13779.0
 The most popular creations are also the ones that will pay their creators for life.,Assumption,t3_4sntrj,d5aqp10,2060.0,13780.0
+These creators have less motivation to continue making more art.,Continue,t3_4sntrj,d5aqp10,2061.0,13781.0
 Disney doesn't pass this test.,Assumption,t3_4sntrj,d5aqp10,2062.0,13782.0
 They have strong copy writes and they create new stuff all the time.,Continue,t3_4sntrj,d5aqp10,2063.0,13783.0
 Isn't that behavior the opposite of what you say will happen.,None,t3_4sntrj,d5aqp10,2064.0,13784.0
@@ -815,6 +790,7 @@ The popularity of Game of Thrones created interest for his earlier works.,Contin
 * Some of the poems were part of his MFA master's thesis.,Continue,t3_4sntrj,d5b4zsd,2088.0,13808.0
 "But, he didn't complete the collection for 10 years after graduating.",Continue,t3_4sntrj,d5b4zsd,2089.0,13809.0
 He'd have enjoyed on a very short period of sales before all of the poems that were written earlier could be distributed for free.,Assumption,t3_4sntrj,d5b4zsd,2090.0,13810.0
+"I think your plan makes some sense if we think only of individual, stand alone works, but that's not how art works.",None,t3_4sntrj,d5b4zsd,2091.0,13811.0
 Artists typically create *a body of work.,None,t3_4sntrj,d5b4zsd,2092.0,13812.0
 * Those later parts help to promote the earlier works.,None,t3_4sntrj,d5b4zsd,2093.0,13813.0
 "When an artist creates a new work, it's not just to generate sales for that new work, but also interest in the older material as they're discovered by new fans.",Assumption,t3_4sntrj,d5b4zsd,2094.0,13814.0
@@ -897,6 +873,7 @@ Is having too much credit card debt - a sign of financial ignorance - also a fac
 What about having kids accidentally?,None,t3_4clvbk,d1jfa2o,2171.0,13998.0
 Should we take kids away from people who were too stupid to use condoms?,None,t3_4clvbk,d1jfa2o,2172.0,13999.0
 Child abuse means something specific.,None,t3_4clvbk,d1jfa2o,2173.0,14000.0
+"When you try to paint everything that's not inherently good for a child as *child abuse*, you open the door to lots of problems.",Assumption,t3_4clvbk,d1jfa2o,2174.0,14001.0
 "'Fats are terrible'; the ignorance in this statement is apparent, and a reason why we can't really make this a crime.",Assumption,t3_4clvbk,d1kiqjr,2175.0,14002.0
 The fact you call it 'common knowledge' drives the point home.,Continue,t3_4clvbk,d1kiqjr,2176.0,14003.0
 "Simply, there's rampant misinformation out there.",None,t3_4clvbk,d1kiqjr,2177.0,14004.0
@@ -914,21 +891,14 @@ So I guess I'm too late but I'll add my input.,None,t3_4clvbk,d1k8322,2187.0,140
 Should parents of models be charged with child abuse for giving their child an unhealthy view of food?,None,t3_4clvbk,d1k8322,2189.0,14016.0
 What about even harder things to see?,None,t3_4clvbk,d1k8322,2190.0,14017.0
 "For example, I have known from quite a young age that both of my parents had done drugs before.",Anecdote,t3_4clvbk,d1k8322,2191.0,14018.0
-"There's a good poem they says it well:
-
-""They fuck you up, your mum and dad.",Double,t3_4clvbk,d1k8322,2194.0,14021.0
+With hindsight that made it much more likely for me to do drugs.,Continue,t3_4clvbk,d1k8322,2192.0,14019.0
+"The problem that you'd encounter just by singling out overweight children would miss these other harder to see forms of ""abuse"".",Assumption,t3_4clvbk,d1k8322,2193.0,14020.0
 There's a good poem they says it well:,Anecdote,t3_4clvbk,d1k8322,2194.0,14021.0
 """They fuck you up, your mum and dad.",None,t3_4clvbk,d1k8322,2194.1,14021.1
 "They may not mean to, but they do.",None,t3_4clvbk,d1k8322,2195.0,14022.0
 They fill you with the faults they had,Assumption,t3_4clvbk,d1k8322,2196.0,14023.0
-"They fill you with the faults they had
-
-And add some extra, just for you.""",Double,t3_4clvbk,d1k8322,2196.0,14023.0
 "And add some extra, just for you.""",None,t3_4clvbk,d1k8322,2196.2,14023.2
 &gt; ...fats are terrible for anybody to consume,Assumption,t3_4clvbk,d1jzjot,2197.0,14024.0
-"&gt; ...fats are terrible for anybody to consume
-
-Not true.",Double,t3_4clvbk,d1jzjot,2197.0,14024.0
 Not true.,None,t3_4clvbk,d1jzjot,2197.1,14024.1
 You need fats for brain function.,Assumption,t3_4clvbk,d1jzjot,2198.0,14025.0
 "Unsaturated fats are good for you (to a certain extent, like everything) and you need a certain amount of fat every day or you won't be very happy (not processing proteins, vision issues, skin problems, and increased risk of dementia/alzheimer's).",Assumption,t3_4clvbk,d1jzjot,2199.0,14026.0
@@ -948,6 +918,11 @@ Unfortunately this far harder in poor families.,Assumption,t3_4clvbk,d1jcbrj,221
 Some the food that has the greatest negative impact on the body are also the cheapest.,Assumption,t3_4clvbk,d1jcbrj,2213.0,14040.0
 Most the time that's all a poor family can afford.,Assumption,t3_4clvbk,d1jcbrj,2214.0,14041.0
 And well shit.,None,t3_4clvbk,d1jcbrj,2215.0,14042.0
+If feeding them cheap food is child abuse and not feeding them because you can't afford to feed them...you see where this is going.,Assumption,t3_4clvbk,d1jcbrj,2216.0,14043.0
+Also education is a factor as well.,Assumption,t3_4clvbk,d1jcbrj,2217.0,14044.0
+Edit: snap only goes so far and not everyone qualifies.,None,t3_4clvbk,d1jcbrj,2218.0,14045.0
+Beyond that many of the poor have limited access to transportation limited what's available to them.,Assumption,t3_4clvbk,d1jcbrj,2219.0,14046.0
+As a former fat kid (and current chubby guy) I can assure you that this would probably lead to the incarceration of at least one innocent parent at some point.,Anecdote,t3_4clvbk,d1jvxak,2220.0,14047.0
 Why?,Other,t3_4clvbk,d1jvxak,2221.0,14048.0
 Because fat kids find a way of getting food without their parent's knowledge.,Continue,t3_4clvbk,d1jvxak,2222.0,14049.0
 I had whacked out blood sugar levels that made me crave food almost constantly.,Anecdote,t3_4clvbk,d1jvxak,2223.0,14050.0
@@ -972,6 +947,7 @@ Wouldn't your criminalization idea tend to disproportionately affect the poor th
 Aren't you effectively just rubbing salt in the wound by punishing a parent in a disadvantaged family for something they are probably actively trying to change but maybe can't as easily as they themselves would like to?,Other,t3_4clvbk,d1jz59d,2242.0,14069.0
 I think it's probably true that obese children are at least some of the time the result of parents not doing their job right.,Assumption,t3_4clvbk,d1jz59d,2243.0,14070.0
 "But criminalizing something like that just doesn't seem workable to me, not to mention setting a really horrible precedent... are parents who smoke around their kids criminals?",None,t3_4clvbk,d1jz59d,2244.0,14071.0
+"What about a parents who don't say ""I love you"" enough?",None,t3_4clvbk,d1jz59d,2245.0,14072.0
 "Nobody likes slippery slope arguments, but it's easy to see how that's exactly how such a thing could turn out that way.",Assumption,t3_4clvbk,d1jz59d,2246.0,14073.0
 Finding where to draw the line isn't easy.,Continue,t3_4clvbk,d1jz59d,2247.0,14074.0
 "I almost agree and think SNAP shouldn't cover junk food, but the conventional wisdom on nutrition has not helped things.",None,t3_4clvbk,d1kgq2x,2248.0,14075.0
@@ -984,10 +960,12 @@ One of my daughters had surgery on her abdomen when she was three and a half.,Co
 "Over the course of years, her weight shifted from being in the 5th percentile for her age (rather quite underweight) to over 95th percentile.",Continue,t3_4clvbk,d1k0eec,2255.0,14082.0
 "Over this time, she and her sisters ate the same things, and did the same things.",Continue,t3_4clvbk,d1k0eec,2256.0,14083.0
 The other two triplets have normal or athletic builds.,Continue,t3_4clvbk,d1k0eec,2257.0,14084.0
+The weight gain for one was very likely due to damage to her gut bacteria from antibiotics used in the surgery.,Assumption,t3_4clvbk,d1k0eec,2258.0,14085.0
 "My daughter with the weight problem is a straight-A student, is the nicest person you could meet, and has done nothing to deserve this.",Anecdote,t3_4clvbk,d1k0eec,2259.0,14086.0
 The excessive weight is a function of absorption in her gut.,Continue,t3_4clvbk,d1k0eec,2260.0,14087.0
 My knee jerk reaction is to agree but the way science operates is by ideas being challenged.,None,t3_5j6wiw,dbe8060,2261.0,14271.0
 While these ignoramuses aren't actually doing any challenging worth noting it's still challenging an idea nonetheless and that's a vital part of the scientific method.,Assumption,t3_5j6wiw,dbe8060,2262.0,14272.0
+It's best just to ignore them if they refuse to see reason.,Assumption,t3_5j6wiw,dbe8060,2263.0,14273.0
 I think I've got a simple argument I haven't seen elsewhere in this thread.,None,t3_5j6wiw,dbdycfv,2264.0,14274.0
 &gt; CMV: I do not think that people can have opinions on anything that can be proven **scientifically** or factually.,None,t3_5j6wiw,dbdycfv,2265.0,14275.0
 Science is based entirely on what is observable and measurable.,Assumption,t3_5j6wiw,dbdycfv,2266.0,14276.0
@@ -1055,6 +1033,7 @@ Science is not usually definitive either and one of the main points of science i
 "There are many subjects where the science is pretty much absolutely correct and it makes very little sense to form opinions going against that, but there are also many subjects where the science world is not unanimous.",Assumption,t3_5j6wiw,dbf5171,2323.0,14333.0
 Science is not a universal truth.,Continue,t3_5j6wiw,dbf5171,2324.0,14334.0
 Like what comes to the naturality homosexuality.,None,t3_5j6wiw,dbf5171,2325.0,14335.0
+"We should first define what we mean by ""natural"", and so on.",None,t3_5j6wiw,dbf5171,2326.0,14336.0
 "If we see science as the ultimate truth, it would be incredibly easy to justify many questionable things and outright refuse many different opinions.",Assumption,t3_5j6wiw,dbf5171,2327.0,14337.0
 "Instead of gayness or weight, lets talk eggs.",None,t3_5j6wiw,dbdte1n,2328.0,14338.0
 Are eggs good for you or are eggs bad for you.,None,t3_5j6wiw,dbdte1n,2329.0,14339.0
@@ -1064,22 +1043,20 @@ Asking whole-shot whether eggs are good or bad was the mistake in the first plac
 "With this idea in mind, let's go back to losing weight.",None,t3_5j6wiw,dbdte1n,2333.0,14343.0
 "Is it possible to lose weight whilst consuming Twinkies, yes.",Other,t3_5j6wiw,dbdte1n,2334.0,14344.0
 "Is it advisable to consume Twinkies if you are trying to lose weight, probably not.",Other,t3_5j6wiw,dbdte1n,2335.0,14345.0
+This problem is that the initial question is malformed.,Assumption,t3_5j6wiw,dbdte1n,2336.0,14346.0
 "People envision ""eatting nothing but Twinkies"" as eatting quite a lot of Twinkies, which does lead to weight gain.",Assumption,t3_5j6wiw,dbdte1n,2337.0,14347.0
 "If the question was instead, if you ate nothing but 2 Twinkies a day, and nothing else passed through your lips, would you lose weight, I think people would form a more reasonable mental representation of what your attempting to communicate.",Assumption,t3_5j6wiw,dbdte1n,2338.0,14348.0
 Going back to being gay - the use of the word natural here is pretty useless.,None,t3_5j6wiw,dbdte1n,2339.0,14349.0
+"Natural doesn't mean anything useful here, but is doing most of the heavy lifting.",Assumption,t3_5j6wiw,dbdte1n,2340.0,14350.0
 On the one hand it could mean - occuring in nature.,Assumption,t3_5j6wiw,dbdte1n,2341.0,14351.0
 On the other hand it could mean- what god intends.,Continue,t3_5j6wiw,dbdte1n,2342.0,14352.0
+Or it could mean - outside of human intervention.,Continue,t3_5j6wiw,dbdte1n,2343.0,14353.0
 "Most times people seem to have opinions about facts, its because a particular word has multiple means or interpretations, or the original question was worded badly or readily misinterpreted.",Assumption,t3_5j6wiw,dbdte1n,2344.0,14354.0
 "It was long thought lactic acid caused muscle soreness and lactic acid was responsible for ""anaerobic threshold.""",Anecdote,t3_5j6wiw,dbey6li,2345.0,14355.0
 Various scientists held the opinion those were false mechanisms.,Continue,t3_5j6wiw,dbey6li,2346.0,14356.0
 "Long story short, we are approaching 30 years of research saying both mechanisms are indeed false.",Continue,t3_5j6wiw,dbey6li,2347.0,14357.0
 "I actually agree with you, but there are times when having an opinion is a good thing.",None,t3_5j6wiw,dbey6li,2348.0,14358.0
 Let's use your example:,None,t3_5j6wiw,dbe12ib,2349.0,14359.0
-"Let's use your example:
-
-&gt;the fact that extensive dietary research shows that Calories in vs. Calories out is the largest factor in losing weight
-
-There are lots of studies showing that high-carb/low-fat diets result in more weight loss than high-fat/low-carb, in specific circumstances.",Double,t3_5j6wiw,dbe12ib,2349.0,14359.0
 &gt;the fact that extensive dietary research shows that Calories in vs. Calories out is the largest factor in losing weight,Assumption,t3_5j6wiw,dbe12ib,2349.1,14359.1
 "There are lots of studies showing that high-carb/low-fat diets result in more weight loss than high-fat/low-carb, in specific circumstances.",Assumption,t3_5j6wiw,dbe12ib,2349.2,14359.2
 There are just as many studies showing the inverse.,Assumption,t3_5j6wiw,dbe12ib,2350.0,14360.0
@@ -1143,9 +1120,6 @@ Were social conservatives on the wrong side when Greece and Rome fell because ev
 Were they on the wrong side when opium addiction toppled entire nations?,None,t3_6leh4s,djtro6r,2406.0,14710.0
 "Okay, let me just throw one example out and you can let me know if you need more.",None,t3_6leh4s,djt6agn,2407.0,14711.0
 "I'm actually mostly liberal, but these days that's considered conservative.",Anecdote,t3_6leh4s,djt6agn,2408.0,14712.0
-"The students at Evergreen are social progressives:
-
-- They have literally stated that they're against free speech.",Double,t3_6leh4s,djt6agn,2409.0,14713.0
 The students at Evergreen are social progressives:,None,t3_6leh4s,djt6agn,2409.0,14713.0
 - They have literally stated that they're against free speech.,Assumption,t3_6leh4s,djt6agn,2409.1,14713.1
 "I mean they actually said this directly, and it's on video (was covered on Vice).",Assumption,t3_6leh4s,djt6agn,2410.0,14714.0
@@ -1159,9 +1133,6 @@ The person who didn't agree with this (Weinstein) has been labeled a racist.,Ane
 The situation at Evergreen will be history.",Assumption,t3_6leh4s,djt6agn,2416.0,14720.0
 And I don't see how any reasonable person could say that social conservatives are on the wrong side here.,None,t3_6leh4s,djt6agn,2417.0,14721.0
 The definitions I am going to use are controversial but there was a debate in Feminism in the 1980s and the 1990s over 'sex positive' and 'sex negative' Feminism.,Anecdote,t3_6leh4s,djte5dd,2418.0,14722.0
-"Sex positive has largley won out but it fits hand in glove with consumerism and capitalism and there is a certain kind of Feminist today that backs something akin to 'Female gordon gekkos are awesome and autonomous and liberated...they should also get to feel like victims and unlike gordon, be the hero of the story'
-
-I consider this development a win for conservativism (wolf) masquerading as progressivism (in sheeps clothing).",Double,t3_6leh4s,djte5dd,2419.0,14723.0
 "Sex positive has largley won out but it fits hand in glove with consumerism and capitalism and there is a certain kind of Feminist today that backs something akin to 'Female gordon gekkos are awesome and autonomous and liberated...they should also get to feel like victims and unlike gordon, be the hero of the story'",Assumption,t3_6leh4s,djte5dd,2419.0,14723.0
 I consider this development a win for conservativism (wolf) masquerading as progressivism (in sheeps clothing).,Assumption,t3_6leh4s,djte5dd,2419.1,14723.1
 "The politics of Bill Clinton/Tony Blair third way is another example, one step forward, two steps back, the CULTURE of socio-economic consrvatism actually increased while a pretence at progressivism is made.Thats why Hillary campaigns with policies that are to the right of 1970s republicans.",Anecdote,t3_6leh4s,djte5dd,2420.0,14724.0
@@ -1265,8 +1236,8 @@ I feel like we're going to have an argument about definitions.,None,t3_6leh4s,dj
 "Your definition for social conservative seems to be someone who ""opposes social progress"" so it's sort of wrapped up in the premise that social conservatives are never on the ""right side of history"", because the group that you're considering as social conservatives is going to be whoever opposed any sort of change.",Assumption,t3_6leh4s,djt6taj,2518.0,14822.0
 "Catholics, social conservatives, and religious folk fought the sterilization of the poor during the American Eugenics Movement.",Anecdote,t3_6leh4s,djtpddb,2519.0,14823.0
 "Most of the people in favor of stripping others of their reproductive rights thought of themselves as social progressives on the side of science, genetics and evolution.",Assumption,t3_6leh4s,djtpddb,2520.0,14824.0
+"I think the thing about the situation we're unspokenly alluding to (where the Christian florist refused service for the gay wedding) was that it was *her* business, and she knew exactly what it was contributing to.",Assumption,t3_6qb8s8,dkw56et,2521.0,14902.0
 "I feel it may have been different if she didn't know what kind of wedding it was for, or if she didn't own the business (in which case she would have likely been fired).",None,t3_6qb8s8,dkw56et,2522.0,14903.0
-"Also, you were saying in another comment that then a server at a restaurant shouldn't serve a few teens because they may think they'll have premarital sex... Two distinctions, the server probably doesn't own the business, and providing food doesn't directly contribute to premarital sex like, say, selling a condom does.",Double,t3_6qb8s8,dkw56et,2523.0,14904.0
 "Also, you were saying in another comment that then a server at a restaurant shouldn't serve a few teens because they may think they'll have premarital sex... Two distinctions, the server probably doesn't own the business, and providing food doesn't directly contribute to premarital sex like, say, selling a condom does.",Assumption,t3_6qb8s8,dkw56et,2523.0,14904.0
 "Providing food directly contributes to feeding them, and what they do afterwards is largely unrelated to service at a restaurant.",Assumption,t3_6qb8s8,dkw56et,2524.0,14905.0
 "For a Christian, it can be compared to owning a gun shop and selling a gun to someone who just told them they're about to kill someone.",Assumption,t3_6qb8s8,dkw56et,2525.0,14906.0
@@ -1293,16 +1264,10 @@ And their religion says that gays = bad.,Assumption,t3_6qb8s8,dkw3hgq,2544.0,149
 Except that gay couple can just go to another cake store.,Assumption,t3_6qb8s8,dkw3hgq,2546.0,14927.0
 "No one is forcing anything on them, the same way no one should force the christian bakers to do something they dont want to do.",Continue,t3_6qb8s8,dkw3hgq,2547.0,14928.0
 Using force isnt right.,None,t3_6qb8s8,dkw3hgq,2548.0,14929.0
-"&gt;It is important to note that not one of the proposed laws supporting discrimination in the United States has talked about any other grounds other than religious, or brought up any other case besides same sex relationships
-
-It's almost as if it's a religious problem, and the only people they have a problem with is gay people.",Double,t3_6qb8s8,dkw3hgq,2549.0,14930.0
 "&gt;It is important to note that not one of the proposed laws supporting discrimination in the United States has talked about any other grounds other than religious, or brought up any other case besides same sex relationships",Assumption,t3_6qb8s8,dkw3hgq,2549.0,14930.0
 "It's almost as if it's a religious problem, and the only people they have a problem with is gay people.",Assumption,t3_6qb8s8,dkw3hgq,2549.1,14930.1
 "Also, what laws are you speaking of?",None,t3_6qb8s8,dkw3hgq,2550.0,14931.0
 "Im not challenging, i just want to know what you're talking about",None,t3_6qb8s8,dkw3hgq,2551.0,14932.0
-"Im not challenging, i just want to know what you're talking about
-
-&gt;So it is clear that one religious perspective is being favored over all others in these laws.",Double,t3_6qb8s8,dkw3hgq,2551.0,14932.0
 &gt;So it is clear that one religious perspective is being favored over all others in these laws.,Assumption,t3_6qb8s8,dkw3hgq,2551.1,14932.1
 "Again, thats because its a fundamental right.",Assumption,t3_6qb8s8,dkw3hgq,2552.0,14933.0
 That kinda trumps the law.,Continue,t3_6qb8s8,dkw3hgq,2553.0,14934.0
@@ -1354,12 +1319,10 @@ Evangelism is all about getting as many as possible to join the flock.,Assumptio
 "The free practice of religion unfortunately means that sooner rather than later, there will be those that go beyond the norm and yet are technically still following their religious ideals.",Assumption,t3_6qb8s8,dkvz0a5,2599.0,14980.0
 "Jim Jones, those that disown children for being gay or kill doctors for providing abortions and polygamists that have child brides are all prime examples of what happens when free reign is given to religions because then it becomes that much harder to prevent certain crimes without infringing on their religion.",Anecdote,t3_6qb8s8,dkvz0a5,2600.0,14981.0
 Practicing an outdated belief of any kind IS an imposition on everybody else.,Assumption,t3_6qb8s8,dkvz0a5,2601.0,14982.0
+&gt;These laws are not being suggested as a blanket right of businesses to have categories of people who are not welcome.,Assumption,t3_6qb8s8,dkw8xwr,2602.0,14983.0
 "The laws would not support discrimination on racial grounds, for example.",Assumption,t3_6qb8s8,dkw8xwr,2603.0,14984.0
 They would support not wanting to take part in your ethnic religious celebration that will be celebrated almost exclusively by people of a particular race.,Assumption,t3_6qb8s8,dkw8xwr,2604.0,14985.0
 &gt; Some Christian business owners in the US seem to believe that an exception should be made in their case regarding gay people,Assumption,t3_6qb8s8,dkw8xwr,2605.0,14986.0
-"&gt; Some Christian business owners in the US seem to believe that an exception should be made in their case regarding gay people
-
-No.",Double,t3_6qb8s8,dkw8xwr,2605.0,14986.0
 No.,None,t3_6qb8s8,dkw8xwr,2605.1,14986.1
 "In fact, time and again, the businesses in question always stress ""We'll serve gays.",Assumption,t3_6qb8s8,dkw8xwr,2606.0,14987.0
 "We just don't want to service a same-sex wedding.""",Continue,t3_6qb8s8,dkw8xwr,2607.0,14988.0
@@ -1405,15 +1368,9 @@ A holy union that embraces Christianity?,None,t3_6qb8s8,dkw5wc7,2644.0,15025.0
 "Marriages in a Christian church, ought to be 100% at the discretion of the church.",None,t3_6qb8s8,dkw5wc7,2647.0,15028.0
 Legal unions are different though.,None,t3_6qb8s8,dkw5wc7,2648.0,15029.0
 A secular union has nothing o do with religion.,Assumption,t3_6qb8s8,dkw5wc7,2649.0,15030.0
+I do not believe they should have that right.,None,t3_6qb8s8,dkw66w0,2650.0,15031.0
 "The argument for gay marriage counters the arguments against gay marriage, some of which are also arguments against polygamy (traditional definition of marriage, etc).",Assumption,t3_6y8fi0,dmlfl5d,2651.0,15199.0
 "However, there are other, specific arguments against polygamy that are not made against gay marriage, and the gay marriage argument doesn't answer those.",Assumption,t3_6y8fi0,dmlfl5d,2652.0,15200.0
-"These include things like:
-
--Marriage is a contract between two people, none of the laws and contracts we have in place work with more than 2 people
-
--Polygamy has shown up very often in religious cults and other cultural institutions with a heavy element of coercion and problematic power dynamics, it may be predisposed to this and should not be encouraged
-
--Marriage is still about giving benefits to help with raising children, we don't believe a child can really be raised by 5 'parents' in the same way they're raised by 2.",Double,t3_6y8fi0,dmlfl5d,2653.0,15201.0
 These include things like:,None,t3_6y8fi0,dmlfl5d,2653.0,15201.0
 "-Marriage is a contract between two people, none of the laws and contracts we have in place work with more than 2 people",Assumption,t3_6y8fi0,dmlfl5d,2653.1,15201.1
 "-Polygamy has shown up very often in religious cults and other cultural institutions with a heavy element of coercion and problematic power dynamics, it may be predisposed to this and should not be encouraged",Assumption,t3_6y8fi0,dmlfl5d,2653.2,15201.2
@@ -1451,6 +1408,7 @@ The arguments in favor of gay marriage do not negate all the arguments against p
 "However, since poly relationships have more than 2 people, they are incompatible with the already established institution of marriage, so it should not be legal.",None,t3_6y8fi0,dmm96la,2684.0,15232.0
 "I think traditionally, a straight couple would be recognized by society (whit the institution of marriage) mostly to help incentivize people to take care of the next generation.",Assumption,t3_6y8fi0,dmm96la,2685.0,15233.0
 "If a gay couple can do that today, poly couples can do it probably as well.",Assumption,t3_6y8fi0,dmm96la,2686.0,15234.0
+"You are generally correct that arguments that support gay marriage also apply to plural marriage (I will avoid using the word polygamy, as it specifically means 1 husband with multiple wives).",None,t3_6y8fi0,dmldcdh,2687.0,15235.0
 "The big difference, however, is that there is a long history of statute and caselaw that determine the legal aspects of how a marriage between 2 people works, and also how divorce between 2 people works.",Assumption,t3_6y8fi0,dmldcdh,2688.0,15236.0
 The same is not true for plural marriage.,Assumption,t3_6y8fi0,dmldcdh,2689.0,15237.0
 "There are sooooo many legal questions that would need to be answered in order to make plural marriage work as an institution, and it may just not be possible to answer them all in a way that is just and makes sense.",Assumption,t3_6y8fi0,dmldcdh,2690.0,15238.0
@@ -1475,9 +1433,6 @@ I'd say the entire purpose of marriage is to legalize a codependent financial bo
 The reason why it is between two people is because historically the wife has been dependent on the husband.,Assumption,t3_6y8fi0,dmm444r,2705.0,15253.0
 Marriage protects the woman in case the man decides to leave her by favoring her in custody and forcing the husband to pay alimony (completely sexist by nature).,Continue,t3_6y8fi0,dmm444r,2706.0,15254.0
 "The entire institution of marriage is outdated because men are no longer the primary bread winners, and relationships are no longer limited to traditional heterosexual and monogamous stereotypes.",Assumption,t3_6y8fi0,dmm444r,2707.0,15255.0
-"&gt;I particularly remember an episode of Jon Stewart where he responded to this argument by saying ""people aren't born polygamist""
-
-Do you have a source for this?",Double,t3_6y8fi0,dmlspl4,2708.0,15256.0
 "&gt;I particularly remember an episode of Jon Stewart where he responded to this argument by saying ""people aren't born polygamist""",Anecdote,t3_6y8fi0,dmlspl4,2708.0,15256.0
 Do you have a source for this?,None,t3_6y8fi0,dmlspl4,2708.1,15256.1
 It seems like an awfully naîve thing to say.,None,t3_6y8fi0,dmlspl4,2709.0,15257.0
@@ -1593,6 +1548,7 @@ No matter how pure or corrupt they are they'll always be remembered.,Assumption,
 This guys going for the long con sure but I think he's got his immortality in mind.,Assumption,t3_4tlihj,d5igc48,2819.0,15587.0
 Trump is using trolling techniques to do well in our political process.,Assumption,t3_4tlihj,d5il2l8,2820.0,15588.0
 He says provocative things with just enough plausible deniability that it doesn't eliminate him.,Assumption,t3_4tlihj,d5il2l8,2821.0,15589.0
+He is Extremely successful at this.,None,t3_4tlihj,d5il2l8,2822.0,15590.0
 "The question of ""whether he wants to be President"" is largely irrelevant.",None,t3_4tlihj,d5il2l8,2823.0,15591.0
 He put forth a strategy that served him well and it's incredibly fair to say it's a trolly strategy.,Assumption,t3_4tlihj,d5il2l8,2824.0,15592.0
 I don't think he's trolling at all.,None,t3_4tlihj,d5iis96,2825.0,15593.0
@@ -1610,6 +1566,7 @@ I think his staff are trolling.,None,t3_4tlihj,d5ii20m,2836.0,15604.0
 "I think Trump is genuine in his weird sort of way, but the people who rise quickly in his staff are the morbidly sarcastic type who would try to slide in a Rickroll reference and a plagiarized first lady speech.",None,t3_4tlihj,d5ii20m,2837.0,15605.0
 "According to people who know him, Trump is a narcissist who feeds on attention.",Testimony,t3_4tlihj,d5i80w3,2838.0,15606.0
 "So yes, his entire campaign is just him feeding his narcissism by any means necessary.",Assumption,t3_4tlihj,d5i80w3,2839.0,15607.0
+I don't know if that is the same thing as trolling.,None,t3_4tlihj,d5i80w3,2840.0,15608.0
 But it is in the same ballpark.,None,t3_4tlihj,d5i80w3,2841.0,15609.0
 "The same thought has crossed my mind, but as of right now I'm more inclined to believe that his whole campaign is just a tool to promote his businesses.",None,t3_4tlihj,d5jgqhv,2842.0,15610.0
 The constant book references and the comments he made at his golf club among other things point to the run being a racket.,Assumption,t3_4tlihj,d5jgqhv,2843.0,15611.0
@@ -1623,7 +1580,6 @@ It's not just that he riles people up.,Continue,t3_4tlihj,d5imnap,2850.0,15618.0
 He's genuinely a *bad person*.,None,t3_4tlihj,d5imnap,2851.0,15619.0
 "Although it's arguable trolls (people trying to incite a reaction usually one of upset and negative attention) aren't counted up there with ""good people"".",None,t3_4tlihj,d5imnap,2852.0,15620.0
 "He wants the presidency, because that's Trump's personality to a T. When he decides he wants something he'll go full bent for it and damned be consequences, common sense or even common decency.",Assumption,t3_4tlihj,d5imnap,2853.0,15621.0
-"He wants the presidency, because that's Trump's personality to a T. When he decides he wants something he'll go full bent for it and damned be consequences, common sense or even common decency.",Double,t3_4tlihj,d5imnap,2853.0,15621.0
 "He's a narcissist of the highest order so in his mind *of course* he deserves the presidency, and it'll only be natural if he gets it.",Assumption,t3_4tlihj,d5imnap,2854.0,15622.0
 "Not here to challenge your view just to let you know that using a double negative in your title ""non-insubstanial is incredibly confusing and poor writing!",None,t3_4tlihj,d5iqfad,2855.0,15623.0
 "why not just use"" substantial""?",None,t3_4tlihj,d5iqfad,2856.0,15624.0
@@ -1632,18 +1588,17 @@ He's been consistent and clear on his opinion of what is wrong with America and 
 He has said the same thing since the 80's... no one listened.,Assumption,t3_4tlihj,d5ihctg,2859.0,15627.0
 "So it finally got bad enough that he's going to do exactly what he said he would do, for the last 36 years... and Fix it himself.",Assumption,t3_4tlihj,d5ihctg,2860.0,15628.0
 https://www.youtube.com/watch?v=OCabT_O0YSM,Anecdote,t3_4tlihj,d5ihctg,2861.0,15629.0
-"https://www.youtube.com/watch?v=OCabT_O0YSM
-
-Essentially you'd have to believe this is a troll he's been working for the better part of 4 Decades, one that he'd sacrifice 18 months of his life and business, to run on the campaign trail.",Double,t3_4tlihj,d5ihctg,2861.0,15629.0
 "Essentially you'd have to believe this is a troll he's been working for the better part of 4 Decades, one that he'd sacrifice 18 months of his life and business, to run on the campaign trail.",Anecdote,t3_4tlihj,d5ihctg,2861.1,15629.1
 One that he'd feel was worth tens of millions in personal funds.,None,t3_4tlihj,d5ihctg,2862.0,15630.0
 "One that would be worth being labeled a Racist, Misogynist,  Anti-Semite, Zenophone, Bigot, and more...",None,t3_4tlihj,d5ihctg,2863.0,15631.0
 "The man has been called ""Literally Hitler"".",None,t3_4tlihj,d5ihctg,2864.0,15632.0
 No troll is worth that.,Assumption,t3_4tlihj,d5ihctg,2865.0,15633.0
+It looks like the discussion has already run it's course and your view has changed..,None,t3_4tlihj,d5ivdcr,2866.0,15634.0
 I just wanted to say that the reason trolling works is because there is a small chance the person is being serious and is just a little off or completely oblivious.,Assumption,t3_4tlihj,d5ivdcr,2867.0,15635.0
 "In other words, if someone says the moon is made of cheese, they aren't trolling because everyone knows that nobody in their right mind believes the moon is made of cheese.",Assumption,t3_4tlihj,d5ivdcr,2868.0,15636.0
 "However, if someone says the moon landing was a hoax, it's possible they believe it because we know others do really believe that.",Assumption,t3_4tlihj,d5ivdcr,2869.0,15637.0
 The things Trump are saying seem trolly because there are people delusional enough to believe the things he claims to believe.,Assumption,t3_4tlihj,d5ivdcr,2870.0,15638.0
+We just don't want to believe a successful businessman and celebrity would believe things reserved for village idiots.,Continue,t3_4tlihj,d5ivdcr,2871.0,15639.0
 "So when Trump says something absurd, you have to choose between two conclusions, this successful popular businessman is brutally ignorant of reality, or this successful popular businessman is just trolling.",Assumption,t3_4tlihj,d5ivdcr,2872.0,15640.0
 "The more successful popular people you meet, the more you'll understand that the concept of them being massively ignorant is well within the realm of possibility and not really surprising at all.",Assumption,t3_4tlihj,d5ivdcr,2873.0,15641.0
 i used to think the same about Herman Cain.,Anecdote,t3_4tlihj,d5ifmqg,2874.0,15642.0
@@ -1653,15 +1608,13 @@ I think you might just be underestimating the requirements for the persona of th
 And that our process is just not good at vetting out narcissistic weirdos.,None,t3_4tlihj,d5ifmqg,2878.0,15646.0
 Remember the 'rent is too damn high' guy?,None,t3_4tlihj,d5ifmqg,2879.0,15647.0
 Remember Ross Perot?,None,t3_4tlihj,d5ifmqg,2880.0,15648.0
+"Edit: ok maybe ross perot doesn't size up the same as Cain and Trump, but my point still stands",None,t3_4tlihj,d5ifmqg,2881.0,15649.0
 "lol, i was just talking about this with my girlfriend last night about the chances trump is just fucking with people and that it'd actually completely change my view of him if whenever he's either elected or loses, he ""removes the mask"" to reveal just how racist and gullible people are.",Anecdote,t3_4tlihj,d5jln8m,2882.0,15650.0
 "her response to me changed my view-- ""i don't think he's clever or humble enough to do that.""",Continue,t3_4tlihj,d5jln8m,2883.0,15651.0
 good point.,None,t3_4tlihj,d5jln8m,2884.0,15652.0
 LOL.,None,t3_4tlihj,d5jln8m,2885.0,15653.0
 I would argue that he has been trying to break into politics for far too long for it to realistically be a troll.,Assumption,t3_4tlihj,d5ifmi0,2886.0,15654.0
 I learned about his early political ambitions from http://trumpthemovie.com/menu/#about,Anecdote,t3_4tlihj,d5ifmi0,2887.0,15655.0
-"I learned about his early political ambitions from http://trumpthemovie.com/menu/#about
-
-It used to be viewable for free on their website, but it looks like they charge for it now.",Double,t3_4tlihj,d5ifmi0,2887.0,15655.0
 "It used to be viewable for free on their website, but it looks like they charge for it now.",Assumption,t3_4tlihj,d5ifmi0,2887.1,15655.1
 You could try youtube or torrents.,None,t3_4tlihj,d5ifmi0,2888.0,15656.0
 "Essentially, he sincerely believes himself to be an important and influential person with the ability to run the country.",Assumption,t3_4tlihj,d5ifmi0,2889.0,15657.0
@@ -1700,12 +1653,14 @@ conservation of the earth is the conservation of human life.,Assumption,t3_701fa
 People who do not yet have a voice or vote.,Continue,t3_701fav,dmzwcxm,2918.0,15783.0
 "We came into a beautiful world, we should try to at least maintain it as is if not make it better for those that come after us.",None,t3_701fav,dmzwcxm,2919.0,15784.0
 You are correct.,None,t3_701fav,dn0c9ze,2920.0,15785.0
+"However, humans are part of a larger system upon which we depend.",Assumption,t3_701fav,dn0c9ze,2921.0,15786.0
 "Break too many pieces of that system, and it falls apart.",Continue,t3_701fav,dn0c9ze,2922.0,15787.0
 We should carefully think about what we're doing.,None,t3_701fav,dn0c9ze,2923.0,15788.0
 The way I see it those two things are one and the same.,None,t3_701fav,dn0d96v,2924.0,15789.0
 Human's do not exist separate from Nature.,Assumption,t3_701fav,dn0d96v,2925.0,15790.0
 "We rely on nature 24/7, we need food, air, water, shelter; all of which we get from nature and refine it to be more efficiently used and aesthetically pleasing.",Continue,t3_701fav,dn0d96v,2926.0,15791.0
 "That's how I see it, I'm not sure where the separation between us and nature comes in.",None,t3_701fav,dn0d96v,2927.0,15792.0
+By expert estimations there are thousands and thousands and thousands of undiscovered species of animals and plants.,Assumption,t3_701fav,dmzwf8x,2928.0,15793.0
 "Animals and plants are really important for us because they often hold the secrets to medicines, treatments, and other things like food flavourings and such.",Assumption,t3_701fav,dmzwf8x,2929.0,15794.0
 "With deforestation and other destructive practices, species are being wiped out every single day.",Assumption,t3_701fav,dmzwf8x,2930.0,15795.0
 For all we know we've killed the frog with a gene that would help us cure cancer.,Assumption,t3_701fav,dmzwf8x,2931.0,15796.0
@@ -1735,6 +1690,7 @@ You can prune a lot of branches before it collapses.,Continue,t3_701fav,dn0kfbq,
 It's more resilient than anything we'll engineer.,Continue,t3_701fav,dn0kfbq,2955.0,15820.0
 Humans achieve a complex society by taking a great number of dependencies.,Assumption,t3_701fav,dn0kfbq,2956.0,15821.0
 This makes us fragile.,Continue,t3_701fav,dn0kfbq,2957.0,15822.0
+"If we dismantle the environment, then the planet will become unsuitable for human life long before it becomes unsuitable for life.",Assumption,t3_701fav,dn0kfbq,2958.0,15823.0
 Part of managing life in hostile environments would require being *much more cautious* about resource usage.,Assumption,t3_701fav,dmzom6c,2959.0,15824.0
 "Earth gives us a lot for free, to the point we struggle to even understand what it would take to manage without it.",Assumption,t3_701fav,dmzom6c,2960.0,15825.0
 "IMO, we'd be better off splitting focus between trying to advance to the stars *and* trying to learn the environmental discipline we'd need to cope here on earth.",None,t3_701fav,dmzom6c,2961.0,15826.0
@@ -1768,6 +1724,7 @@ We are heavily reliant on the maintenance of the biosphere.,Assumption,t3_701fav
 The biosphere is capable of sustaining itself in large part because of it's complexity (with each component capable of independent adaptation).,Continue,t3_701fav,dn0o6er,2989.0,15854.0
 "Developed areas have very little biological complexity, rendering the system fragile under relatively minor forms of adversity.",Assumption,t3_701fav,dn0o6er,2990.0,15855.0
 This is basically the same phenomenon that leads mono-culture farms to be highly susceptible to plague.,Assumption,t3_701fav,dn0o6er,2991.0,15856.0
+"With many different strains of crop, some small portion may be lost to disease on a regular basis and the bulk of the crop will still survive.",Continue,t3_701fav,dn0o6er,2992.0,15857.0
 "With a mono-culture, any moderately successful disease has the potential to drive extinction.",Continue,t3_701fav,dn0o6er,2993.0,15858.0
 "The most famous example of this is the probably the Gros Michel variety of banana, which went from the most commonly exported banana to all but extinct in less than a decade.",Anecdote,t3_701fav,dn0o6er,2994.0,15859.0
 "The loss of complexity in the biosphere (typically measured under the term ""biodiversity"") is extremely detrimental to the long-term health of the biosphere, on which we are reliant.",Assumption,t3_701fav,dn0o6er,2995.0,15860.0

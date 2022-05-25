@@ -31,7 +31,11 @@ def main():
     robin_final = robin[['sentence', 'evidence', 'thread_id', 'comment_id']]
 
     final_dataset = pd.concat([first10_final, marieke_final, friso_final, robin_final])
-    final_dataset.reset_index(inplace=True,drop=True)
+
+    final_dataset = pd.concat([first10_final, marieke_final, friso_final, robin_final])
+    final_dataset = final_dataset.replace('Study/Statistics', 'Statistics/Study')
+
+    final_dataset.reset_index(inplace=True, drop=True)
 
     final_dataset_no_continue = add_no_continue(final_dataset)
     final_dataset_no_continue.to_csv('final_dataset.csv', index=False)
